@@ -1,0 +1,13 @@
+Matthew Murphy
+15147193
+
+Compile:
+	javac *.java
+Run:
+	java L4Hotels
+
+Menus:
+	Navagate the menus by folowing the instructions given on screen. 
+Files:
+	A l4Hotels.csv file is neded to run the program. This lists the Hotels and Rooms
+	A Reservations.csv qill be created if it is not already there. This will holde the information for all reservations.

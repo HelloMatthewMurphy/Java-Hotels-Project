@@ -1,0 +1,4 @@
+ResID,Name,Type,Check-In Date,no. Nights,no. Rooms,Breakfast,Cost,Deposit,Checked In,Checked Out,Cancled,Refunded,Rooms,
+0,Tim Tam,S,20/11/2016,5,1,true,405.0,50.0,false,false,false,false,Deluxe Double,
+1,Woh,S,20/11/2016,3,1,true,240.0,50.0,false,false,false,false,Deluxe Double,
+2,Tom,AP,30/1/2017,5,1,true,192.5,50.0,false,false,false,false,Executive Twin,
